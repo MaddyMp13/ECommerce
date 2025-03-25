@@ -76,6 +76,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             (item.brand?.toLowerCase() || "").includes(searchValue) ||
             (item.color?.toLowerCase() || "").includes(searchValue)||
             (item.price?.toLowerCase() || "").includes(searchValue)
+
+            
         );
 
         showProducts(filteredData); // Display search results
