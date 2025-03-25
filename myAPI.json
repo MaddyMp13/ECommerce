@@ -1,0 +1,58 @@
+{
+    "device": [
+        {
+            "name": "Raycon RB Headphones",
+            "price": "$189",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/headphones1_f87e2353-4d74-4d10-95ea-9516f3f49f9b.webp",
+            "tag": "New Arrival",
+            "description": "Table with air purifier",
+            "brand": "Bose (102)",
+            "color": "#fff"
+        },
+        {
+            "name": "Skull MTFLEX",
+            "price": "$139",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/earbuds2_25aeaa03-0cfd-4b52-9063-809b3ac7d01f.webp",
+            "tag": "New Arrival",
+            "description": "Active Noise Canceling Bluetooth",
+            "brand": "Empire Ears (89)",
+            "color": "#FB923C"
+        },
+        {
+            "name": "Sony TUNE 600STC",
+            "price": "$169",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/headphones2_6d9386c1-6df8-43f5-937b-595eed9eb37f.webp",
+            "tag": "New Arrival",
+            "description": "Premium Bone Conduction",
+            "brand": "Sony (230)",
+            "color": "#374151"
+        },
+        {
+            "name": "Yoto Max CH4",
+            "price": "$109",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/headphones3_0fac9eff-2ca7-4f36-a6c8-16ea44d0925b.webp",
+            "tag": "New Arrival",
+            "description": "Kids Headphones",
+            "brand": "Audionic (102)",
+            "color": "#D1D5DB"
+        },
+        {
+            "name": "Bose Pro Headphones",
+            "price": "$249",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/headphones5_fe5729cf-56ef-446c-b310-9132c4829189.png",
+            "tag": "New Arrival",
+            "description": "Wired Stereo Headset with Mic",
+            "brand": "",
+            "color": "#1E40AF"
+        },
+        {
+            "name": "Audionic Earphones",
+            "price": "$119",
+            "image": "https://wqnmyfkavrotpmupbtou.supabase.co/storage/v1/object/public/assets/earbuds1_d0e16a1c-127b-4330-baff-a0680a9e64e7.webp",
+            "tag": "New Arrival",
+            "description": "High Fidelity Audio",
+            "brand": "abcd",
+            "color": "#FBCFE8"
+        }
+    ]
+}

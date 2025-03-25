@@ -59,13 +59,21 @@ h6 {
 
 .box {
     height: 267px;
-    width: 267px;
+  
     background-color: #E8E7EC;
     border-radius: 10px;
     padding: 10px;
     opacity: 0.8;
+
+    flex-direction: column !important;
 }
 
+.card{
+    width: 267px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+}
 
 .box:hover{
     transition: all 0.5s;
@@ -73,15 +81,14 @@ h6 {
 }
 
 .img{
-    width: 100%;
-    /* border: 1px solid red; */
     display: flex;
     justify-content: center;
-}
+    align-items: center;
+} 
 
-.img img{
+ .img img{
     margin-top: 10px
-}
+} 
 
 .info{
     width: 267px;
